@@ -1,0 +1,20 @@
+name: photo_lamp_cv
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - imageio
+    - scikit-learn
+    - conda-forge::opencv
+    - notebook
+    - pandas
+    - scipy
+    - ipywidgets
+    - statsmodels
+    - jupyterlab
+    - plotly
+    - pip
+    - seaborn
+    - pip:
+        - kaleido
